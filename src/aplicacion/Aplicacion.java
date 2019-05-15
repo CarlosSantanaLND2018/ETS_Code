@@ -12,7 +12,7 @@ public class Aplicacion {
        
        suma = a + b;
        
-       System.out.println(suma);
+       //System.out.println(suma);
        
     }
     
